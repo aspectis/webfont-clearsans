@@ -1,0 +1,12 @@
+{
+  "name": "webfont-clearsans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspectis/webfont-clearsans.git"
+  },
+  "author": "Intel",
+  "license": "Apache-2.0"
+}
